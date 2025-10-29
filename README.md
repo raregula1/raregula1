@@ -6,7 +6,7 @@
 
 <p align="center">
 Building resilient, observable, cost‑efficient platforms on AWS. <br/>
-Ex‑VP Engineering | 20+ yrs | Lean & DORA‑driven | AWS Pro‑certified
+Technology Leader | 20+ yrs | Lean & DORA‑driven | AWS Pro‑certified
 </p>
 
 
