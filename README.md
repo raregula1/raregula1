@@ -47,12 +47,6 @@ AWS SA‑Pro · AWS DevOps Pro · AWS Adv Networking · AWS AI Practitioner · H
 
 > Each repo includes: architecture diagram, ADRs, runbooks, CI/CD, and a 5‑minute quickstart.
 
-
-### Talks & writing (optional)
-- "From no one trusting data to everyone trusting data" — rebuilding trust with governance & SLOs
-- "Observability as a product" — SLIs/SLOs, incident reviews, and feedback loops
-
-
 ---
 
 
