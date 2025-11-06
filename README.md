@@ -76,12 +76,6 @@ I’m passionate about **enabling teams through automation, observability, and A
 ## 💬 Let’s Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/rameshregulapati)  
-- 📧 **ramesh.regulapati@example.com**  
-- 🧰 [Certifications & Projects](#)
+
 
 > “Technology leadership isn’t just about building platforms — it’s about enabling people, empowering teams, and creating measurable business impact.”
-
----
-
-⭐ **Pinned Repositories:**  
-👉 Highlight 4–5 key repositories using GitHub’s “Pin” feature for quick visibility.
