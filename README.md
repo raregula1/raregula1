@@ -17,7 +17,7 @@ I’m passionate about **enabling teams through automation, observability, and A
 - ☁️ **DevOps Transformation:** Built enterprise-wide CI/CD standards, IaC (Terraform), and **GitHub Actions** pipelines — improving release frequency and developer experience  
 - 🔍 **Observability & AIOps:** Deployed **Grafana Cloud + AWS** for predictive monitoring, vulnerability detection, and automated remediation — improving MTTR by 35%  
 - 🧠 **Data Platform Modernization:** Consolidated multi-tenant **Snowflake** platform with improved governance, lineage, and classification — restoring organizational trust in data  
-- 🌍 **Global Team Leadership:** Scaled and led 55+ global engineers (Platform, Data, DevOps, QA, SRE) across the US, India, and South America — building a culture of excellence and accountability  
+- 🌍 **Global Team Leadership:** Scaled and led global engineers (Platform, Data, DevOps, QA, SRE) across the US, India, and South America — building a culture of excellence and accountability  
 
 ---
 
