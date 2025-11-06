@@ -25,10 +25,10 @@ I’m passionate about **enabling teams through automation, observability, and A
 
 | Domain | Key Technologies |
 |--------|------------------|
-| **Cloud & Infra** | AWS (EKS, Lambda, EventBridge, API Gateway, S3, CloudFront, Aurora, DynamoDB), Terraform, CDK |
-| **DevOps & SRE** | GitHub Actions, AWS CodePipeline, ArgoCD, Prometheus, Grafana Cloud, Chaos Engineering |
+| **Cloud & Infra** | AWS (EKS, Lambda, EventBridge, API Gateway, S3, CloudFront, Kinesis, RDS, Aurora, DynamoDB), Terraform, CDK |
+| **DevOps & SRE** | GitHub Actions, AWS CodePipeline, Harness, Sonarqube, Jenkins, Jfrog, Prometheus, Grafana Cloud, Chaos Engineering |
 | **Data & AI/ML** | Snowflake, Kafka, Matillion, Fivetran, dbt, Python, MLflow |
-| **Architecture & APIs** | Microservices (Java, NodeJS, Go), GraphQL, REST, Async Events, DDD |
+| **Architecture & APIs** | Microservices (Java, Spring Boot, NodeJS, Go), GraphQL, REST, Async Events, DDD |
 | **Security & Compliance** | AWS SigV4, OPA, SAML/SSO, SOC2, HITRUST, HIPAA |
 | **AI Enablement** | GitHub Copilot, Microsoft Copilot, Generative AI in DevOps & Productivity |
 
